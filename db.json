@@ -1,0 +1,19 @@
+{
+    "vouchers": [
+      {
+        "id": 1,
+        "code": "ABC1231"
+      },
+      {
+        "id": 2,
+        "code": "ABC1232"
+      },
+      {
+        "id": 3,
+        "code": "ABC12313"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
